@@ -64,8 +64,11 @@ Waiting to connect with you!🙇‍♂️
 <a href="https://github.com/p-gupta">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=p-gupta&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=p-gupta81&layout=compact&langs_count=8&theme=merko"/>
+
 </a>
+
 </p>
+
 <!--<a href="https://blog.octachart.com"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a> -->
 <!--<a href="https://twitter.com/intent/follow?screen_name=AfroBoyUg"><img src="https://img.shields.io/badge/Twitter-2962FF?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <!--<a href="https://discord.gg/"><img src="https://img.shields.io/badge/discord-543211?style=for-the-badge&logo=discord&logoColor=green"></a>
