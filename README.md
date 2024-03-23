@@ -36,34 +36,23 @@
  <a href="https://app.daily.dev/prince" target="_blank">
 
  <!--<img align="right" width ="320" height="390" src="https://github.com/p-gupta81/p-gupta81/blob/main/scan.png">  -->
-
  </a>
-
 </div>
-
 #### 👯 I’m looking to collaborate on:
 Open Source especially React Projects that will benefit the world. <br>
-
 #### ⚡ Fun fact:
 The name Ubuntu means “I am because of programmers” 
 #### 📌Fav Quote:
-
 A year from now you will wish you had started today.<br>
 -----Unknown
-
 #### 📫 How to reach me:
-
 For all my Essential Links: Click [Here](https://github.com/p-gupta81)!<br>
-
 <!--
 You can alternatively scan the QR Coded Image <br>
 
 <h3 align="right">
-
 Waiting to connect with you!🙇‍♂️
-
 </h3>
-
 ## &#x1f4c8; My GitHub Analytics
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-gupta81&show_icons=true&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -87,11 +76,7 @@ Waiting to connect with you!🙇‍♂️
 <!--<a href=""><img src="https://img.shields.io/badge/NFTs-2962FF?style=for-the-badge&logo=opensea&logoColor=white"></a> -->
 
 ### Languages, Tools & AOB
-
 <p align="left"> 
-
-  
-
   <img src="https://img.shields.io/badge/Python-234344?style=for-the-badge&logo=tailwind-css&logoColor=red">
  
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -137,11 +122,8 @@ Waiting to connect with you!🙇‍♂️
   <img src="https://img.shields.io/badge/openshot-A324C7?style=for-the-badge&logo=openshot&logoColor=white">
 
   <img src="https://img.shields.io/badge/Blockchain-7023AC?style=for-the-badge&logo=binance&logoColor=purple">
-
 </p>
-
 <br><hr>
-
 <!---
 p-gupta81/p-gupta81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
