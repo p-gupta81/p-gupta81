@@ -16,30 +16,18 @@
 #### 💬 Ask me about:
 
 🔸React Native <br>
-
 🔸Native Android Development<br>
-
 🔸Kotlin <br>
-
 🔸Java<br>
-
 🔸TypeScript <br>
-
 🔸Microsoft Azure<br>
-
 🔸Designing<br>
 
 #### 🌻 I’m currently learning:
-
-
 🔸Web 3 <br>
-
 🔸React Js with typescript <br>
-
 🔸Android Developmentwith jetpack compose <br>
-
 🔸BlockChain Technology<br>
-
 🔸All tech lifelong learner <br>
 
 <br>
@@ -54,24 +42,18 @@
 </div>
 
 #### 👯 I’m looking to collaborate on:
-
 Open Source especially React Projects that will benefit the world. <br>
 
-
 #### ⚡ Fun fact:
-
 The name Ubuntu means “I am because of programmers” 
-
 #### 📌Fav Quote:
 
 A year from now you will wish you had started today.<br>
-
 -----Unknown
-
 
 #### 📫 How to reach me:
 
-For all my Essential Links: Click [Here](https://linktr.ee/sijanmainali)!<br>
+For all my Essential Links: Click [Here](https://github.com/p-gupta81)!<br>
 
 <!--
 You can alternatively scan the QR Coded Image <br>
@@ -98,17 +80,15 @@ Waiting to connect with you!🙇‍♂️
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sijan2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sijan2&layout=compact&langs_count=8&theme=merko"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=p-gupta81&layout=compact&langs_count=8&theme=merko"/>
 
 </a>
 
 </p>
 
 ###  Content Creation
-
 <!--<a href="https://blog.octachart.com"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a> -->
 
-<a href="https://youtube.com/channel/UCYzVAWWiTe03RkqEeC5y4cQ"><img src="https://img.shields.io/badge/youtube-543211?style=for-the-badge&logo=youtube&logoColor=red"></a>
 
 <!--<a href="https://twitter.com/intent/follow?screen_name=AfroBoyUg"><img src="https://img.shields.io/badge/Twitter-2962FF?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
