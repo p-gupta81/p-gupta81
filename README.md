@@ -47,6 +47,7 @@ A year from now you will wish you had started today.<br>
 -----Unknown
 #### 📫 How to reach me:
 For all my Essential Links: Click [Here](https://github.com/p-gupta81)!<br>
+
 <!--
 You can alternatively scan the QR Coded Image <br>
 
@@ -64,11 +65,9 @@ Waiting to connect with you!🙇‍♂️
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=p-gupta81&layout=compact&langs_count=8&theme=merko"/>
 </a>
 </p>
-###  Content Creation
 <!--<a href="https://blog.octachart.com"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a> -->
 <!--<a href="https://twitter.com/intent/follow?screen_name=AfroBoyUg"><img src="https://img.shields.io/badge/Twitter-2962FF?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <!--<a href="https://discord.gg/"><img src="https://img.shields.io/badge/discord-543211?style=for-the-badge&logo=discord&logoColor=green"></a>
-
 <a href="https://octachart.com/"><img src="https://img.shields.io/badge/Visit Octachart-2962FF?style=for-the-badge&logo=website&logoColor=blue"></a> 
 
 <!--<a href="https://twitter.com/"><img src="https://img.shields.io/badge/UG Tech Geeks Bot-543211?style=for-the-badge&logo=twitter&logoColor=black"></a>
