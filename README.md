@@ -83,7 +83,7 @@ Waiting to connect with you!🙇‍♂️
 ### Languages, Tools & AOB
 
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Python-234344?style=for-the-badge&logo=tailwind-css&logoColor=red">
+  <img src="https://img.shields.io/badge/https://www.python.org/=for-the-badge&logo=tailwind-css&logoColor=red">
  
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
