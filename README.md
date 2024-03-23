@@ -45,10 +45,11 @@ The name Ubuntu means “I am because of programmers”
 #### 📌Fav Quote:
 A year from now you will wish you had started today.<br>
 -----Unknown
+
 #### 📫 How to reach me:
 For all my Essential Links: Click [Here](https://github.com/p-gupta81)!<br>
-
 <!--
+
 You can alternatively scan the QR Coded Image <br>
 
 <h3 align="right">
@@ -75,6 +76,7 @@ Waiting to connect with you!🙇‍♂️
 <!--<a href=""><img src="https://img.shields.io/badge/NFTs-2962FF?style=for-the-badge&logo=opensea&logoColor=white"></a> -->
 
 ### Languages, Tools & AOB
+
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-234344?style=for-the-badge&logo=tailwind-css&logoColor=red">
  
